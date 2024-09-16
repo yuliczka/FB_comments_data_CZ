@@ -27,7 +27,8 @@ The following Czech language models exist for training the LLM on this dataset:
   1.	RobeCzech:
 A transformer-based language model trained on Czech texts.
 Model link: RobeCzech on Huggingface
-	2.	Retromae-small-cs:
+
+  2.	Retromae-small-cs:
 Another Czech-focused language model for text analysis and comprehension.
 Model link: Retromae-small-cs on Huggingface
 
