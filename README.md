@@ -4,15 +4,23 @@ Project Overview
 
 This repository contains a dataset of Facebook comments collected from two Czech media outlets: ČT24 and Seznam Zprávy, specifically focusing on news items related to the 2023 Czech presidential election campaign. The data was gathered one week prior to the first round of elections in January 2023.
 
-The primary purpose of this dataset is to train Large Language Model to code and analyze public discourse, particularly focusing on selected categories. The objective is to assign values to selected variables and to compare the machine coding with the inductively coded assessement of the same dataset.
+The primary purpose of this dataset is to train Large Language Model to code and analyze public discourse, particularly focusing on selected categories. The objective is to assign values to selected variables and to compare the machine coding with the inductively coded assessment of the same dataset.
 
-Dataset Description
+## Dataset Description
 
 The dataset consists of four files:
 
-	1.	Partially inductively coded version of the dataset with comments from ČT24.
-	2.	Partially inductively coded version of the dataset with comments from Seznam Zprávy.
-	3.	Clean (pre-coding) version of the dataset with comments from ČT24.                                                                   4.	Clean (pre-coding) version of the dataset with comments from Seznam Zprávy.
+1. **Partially Inductively Coded Version with Comments from ČT24**:  
+   A version of the dataset where comments from ČT24 have been partially inductively coded.
+
+2. **Partially Inductively Coded Version with Comments from Seznam Zprávy**:  
+   A version of the dataset where comments from Seznam Zprávy have been partially inductively coded.
+
+3. **Clean (Pre-Coding) Version with Comments from ČT24**:  
+   The raw comments from ČT24 before any inductive coding has been applied.
+
+4. **Clean (Pre-Coding) Version with Comments from Seznam Zprávy**:  
+   The raw comments from Seznam Zprávy before any inductive coding has been applied.
 
 Data Scope:
 
