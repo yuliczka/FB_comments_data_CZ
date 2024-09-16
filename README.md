@@ -12,13 +12,13 @@ The dataset consists of four files:
 
 	1.	Partially inductively coded version of the dataset with comments from ČT24.
 	2.	Partially inductively coded version of the dataset with comments from Seznam Zprávy.
-	3.	Clean (pre-coding) version of the dataset with comments from ČT24.                                                                       4.	Clean (pre-coding) version of the dataset with comments Seznam Zprávy.
+	3.	Clean (pre-coding) version of the dataset with comments from ČT24.                                                                   4.	Clean (pre-coding) version of the dataset with comments from Seznam Zprávy.
 
 Data Scope:
 
 	•	Data includes all comments on news posts related to the 2023 presidential elections.
 	•	Covers the week preceding the first round of elections in January 2023.
-	•	Manual inductive coding has been applied to a part of the dataset, serving as an initial step to gain a preliminary understanding of the data and evaluate public discourse on the topic, as well as intended to serve as initial a comparison for the LLM-generated results.
+	•	Manual inductive coding has been applied to a part of the dataset, serving as an initial step to gain a preliminary understanding of the data and evaluate public discourse on the topic, as well as intended to serve as an initial comparison for the LLM-generated results.
 
 Language Models
 
@@ -28,7 +28,7 @@ The following Czech language models exist for training the LLM on this dataset:
 A transformer-based language model trained on Czech texts.
 Model link: RobeCzech on Huggingface
 	2.	Retromae-small-cs:
-Another Czech-focused language model, useful for text analysis and comprehension.
+Another Czech-focused language model for text analysis and comprehension.
 Model link: Retromae-small-cs on Huggingface
 
 Objectives
